@@ -4,7 +4,7 @@ main:
     url: /publications/  
     
   - title: "CV"
-    url: https://github.com/aniruddhasen/aniruddhasen.github.io/files/cv.pdf
+    url: https://aniruddhasen.github.io/files/cv.pdf
 
   - title: "Miscellaneous"
     url: /misc/
