@@ -23,7 +23,7 @@ We give an algorithm for pure state tomography with near-optimal copy complexity
 </li>
 
 <li>
-<strong>Multipartite Entanglement in Quantum Networks using Subgraph Complementations</strong><br>
+<strong>Multipartite Entanglement Distribution in Quantum Networks using Subgraph Complementations</strong><br>
 Aniruddha Sen, Kenneth Goodenough, Don Towsley<br>
 <em>Quantum</em> 9, 1911 (2025)<br>
 <a href="https://arxiv.org/abs/2308.13700">(arXiv)</a> ·
