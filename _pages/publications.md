@@ -3,11 +3,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<details class="pub-note">
-<summary>Credit*</summary>
-Authors are listed in alphabetical order by last name for papers marked with an asterisk (*), as is standard in mathematics and theoretical computer science.
-</details>
-
 <ol class="publications" reversed>
 
 <li>
@@ -49,3 +44,10 @@ The Collaborative Research Cycle (CRC) is a National Institute of Standards and 
 </li>
 
 </ol>
+
+<details class="pub-note">
+<summary><span style="font-weight: 400; color: #666;">*Credit</span></summary>
+<small style="color: #777; font-weight: 300;">
+Authors are listed in alphabetical order by last name for papers marked with an asterisk (*), as is standard in mathematics and theoretical computer science.
+</small>
+</details>
