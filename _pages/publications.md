@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<ol class="publications" reversed>
+<ol class="publications">
 
 <li>
 <strong>Pauli Measurements Are Near-Optimal for Pure State Tomography</strong>*<br>
