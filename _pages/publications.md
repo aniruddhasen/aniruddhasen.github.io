@@ -8,7 +8,7 @@ author_profile: true
 <li>
 <strong>Classical Shadows with Arbitrary Group Representations</strong><br>
 Maxwell West, Frederic Sauvage, Aniruddha Sen, Roy Forestano, David Wierichs, Nathan Killoran, Dmitry Grinko, M. Cerezo, Martin Larocca<br>
-<em>Preprint</em><br>
+<em>Preprint, 2026</em><br>
 <a href="https://arxiv.org/abs/2604.01429">(arXiv)</a>
 
 <details>
@@ -20,7 +20,7 @@ Classical shadows (CS) has recently emerged as an important framework to efficie
 <li>
 <strong>Pauli Measurements Are Near-Optimal for Pure State Tomography</strong>*<br>
 Sabee Grewal, Meghal Gupta, William He, Aniruddha Sen, Mihir Singhal<br>
-<em>Preprint</em><br>
+<em>Preprint, 2026</em><br>
 <a href="https://arxiv.org/abs/2601.04444">(arXiv)</a>
 
 <details>
