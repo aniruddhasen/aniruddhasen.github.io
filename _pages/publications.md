@@ -18,14 +18,14 @@ Classical shadows (CS) has recently emerged as an important framework to efficie
 </li>
 
 <li>
-<strong>Pauli Measurements Are Near-Optimal for Pure State Tomography</strong>*<br>
+<strong>Nearly Time-Optimal Pure State Tomography with Pauli Measurements</strong>*<br>
 Sabee Grewal, Meghal Gupta, William He, Aniruddha Sen, Mihir Singhal<br>
 <em>Preprint, 2026</em><br>
 <a href="https://arxiv.org/abs/2601.04444">(arXiv)</a>
 
 <details>
 <summary>Abstract</summary>
-We give an algorithm for pure state tomography with near-optimal copy complexity using single-qubit measurements. Specifically, given \(\tilde{O}(2^n/\epsilon)\) copies of an unknown pure \(n\)-qubit state \(|\psi\rangle\), the algorithm performs only <em>nonadaptive Pauli measurements</em>, runs in time \(\mathrm{poly}(2^n,1/\epsilon)\), and outputs \(|\hat{\psi}\rangle\) that has fidelity \(1-\epsilon\) with \(|\psi\rangle\) with high probability. This improves upon the previous best copy complexity bound of \(\tilde{O}(3^n/\epsilon)\).
+We give an algorithm for pure state tomography with near-optimal copy and time complexity using only single-qubit measurements. Specifically, given $\widetilde{O}(2^n / \epsilon)$ copies of an unknown $n$-qubit pure state $\ket{\psi}$, the algorithm performs only nonadaptive Pauli measurements, runs in time $\widetilde{O}(2^n / \epsilon)$, and outputs $\ket{\hat{\psi}}$ with fidelity at least $1 - \epsilon$ with $\ket{\psi}$ with high probability. This is the first algorithm for pure state tomography that achieves near-optimal running time.
 </details>
 </li>
 
