@@ -8,7 +8,7 @@ author_profile: true
 <li>
 <strong>Classical Shadows with Arbitrary Group Representations</strong><br>
 Maxwell West, Frederic Sauvage, Aniruddha Sen, Roy Forestano, David Wierichs, Nathan Killoran, Dmitry Grinko, M. Cerezo, Martin Larocca<br>
-<em>Preprint, 2026</em><br>
+Preprint, 2026 <br>
 <a href="https://arxiv.org/abs/2604.01429">(arXiv)</a>
 
 <details>
@@ -20,7 +20,7 @@ Classical shadows (CS) has recently emerged as an important framework to efficie
 <li>
 <strong>Nearly Time-Optimal Pure State Tomography with Pauli Measurements</strong>*<br>
 Sabee Grewal, Meghal Gupta, William He, Aniruddha Sen, Mihir Singhal<br>
-<em>FOCS 2026</em><br>
+FOCS 2026<br>
 <a href="https://arxiv.org/abs/2601.04444">(arXiv)</a>
 
 <details>
@@ -45,7 +45,7 @@ Quantum networks are important for quantum communication, enabling tasks such as
 <li>
 <strong>Diverse Community Data for Benchmarking Data Privacy Algorithms</strong><br>
 Aniruddha Sen, Christine Task, Dhruv Kapur, Gary Howarth, Karan Bhagat<br>
-<em>NeurIPS</em> 2023<br>
+NeurIPS 2023<br>
 <a href="https://arxiv.org/abs/2306.13216">(arXiv)</a> ·
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/a15032f8199511ced4d7a8e2bbb487a5-Paper-Datasets_and_Benchmarks.pdf">(Journal)</a>
 
