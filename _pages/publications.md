@@ -8,7 +8,7 @@ author_profile: true
 <li>
 <strong>Classical Shadows with Arbitrary Group Representations</strong><br>
 Maxwell West, Frederic Sauvage, Aniruddha Sen, Roy Forestano, David Wierichs, Nathan Killoran, Dmitry Grinko, M. Cerezo, Martin Larocca<br>
-Preprint, 2026 <br>
+Preprint (2026)<br>
 <a href="https://arxiv.org/abs/2604.01429">(arXiv)</a>
 
 <details>
