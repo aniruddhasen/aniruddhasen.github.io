@@ -6,6 +6,18 @@ author_profile: true
 <ol class="publications">
 
 <li>
+<strong>Learning Sparse Quantum States</strong><br>
+Aniruddha Sen <br>
+Preprint (2026) <br>
+<a href="https://arxiv.org/abs/2609.12219">(arXiv)</a>
+
+<details>
+<summary>Abstract</summary>
+We study the problem of tomography for $k$-sparse quantum states. In contrast to classical distribution learning, where tight sample and time complexity bounds in terms of support size are well understood, no non-trivial bounds were previously shown for this problem. We give the first near optimal algorithm for learning $n$-qubit $k$-sparse pure quantum states, obtaining fidelity at least $1−\varepsilon$ with high probability using $\tilde{O}(k/\varepsilon)$ copies of the state and $\tilde{O}(kn/\varepsilon)$ time. Both bounds are optimal up to polylogarithmic factors. As an implication, we also obtain an algorithm with near optimal $\tilde{O}(kr/\varepsilon)$ sample complexity for learning $k$-sparse rank-$r$ mixed states, via the random purification channel technique. Obtaining time complexity nearly matching the sample complexity, for $r>1$, remains an important open question.
+</details>
+</li>
+
+<li>
 <strong>Classical Shadows with Arbitrary Group Representations</strong><br>
 Maxwell West, Frederic Sauvage, Aniruddha Sen, Roy Forestano, David Wierichs, Nathan Killoran, Dmitry Grinko, M. Cerezo, Martin Larocca<br>
 Preprint (2026)<br>
