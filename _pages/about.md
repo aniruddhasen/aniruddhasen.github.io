@@ -13,6 +13,18 @@ I previously graduated from the [University of Massachusetts Amherst](https://ww
 
 ## Selected Papers
 <ol class="publications">
+  
+<li>
+<strong>Nearly Time-Optimal Pure State Tomography with Pauli Measurements</strong><br>
+Sabee Grewal, Meghal Gupta, William He, Aniruddha Sen, Mihir Singhal<br>
+FOCS 2026<br>
+<a href="https://arxiv.org/abs/2601.04444">(arXiv)</a>
+
+<details>
+<summary>Abstract</summary>
+We give an algorithm for pure state tomography with near-optimal copy and time complexity using only single-qubit measurements. Specifically, given $\widetilde{O}(2^n / \epsilon)$ copies of an unknown $n$-qubit pure state $\ket{\psi}$, the algorithm performs only nonadaptive Pauli measurements, runs in time $\widetilde{O}(2^n / \epsilon)$, and outputs $\ket{\hat{\psi}}$ with fidelity at least $1 - \epsilon$ with $\ket{\psi}$ with high probability. This is the first algorithm for pure state tomography that achieves near-optimal running time.
+</details>
+</li>
 
 <li>
 <strong>Local random quantum circuits converge to the Porter-Thomas distribution in polynomial depth</strong><br>
@@ -22,7 +34,7 @@ Preprint (2026) <br>
 
 <details>
 <summary>Abstract</summary>
-Porter-Thomas statistics are a characteristic feature of the output distribution of random quantum states and, more broadly, chaotic quantum many-body systems. Convergence to Porter-Thomas plays a central role in random circuit sampling and experimental demonstrations of quantum advantage, where the output statistics of low-depth random quantum circuits are expected to be approximately Porter-Thomas, despite the absence of a rigorous proof of con- vergence. We show that the output distribution of polynomial-depth brickwork random circuits converges inverse-polynomially in total variation distance to the Porter-Thomas distribution. Specifically, consider the output probability distribution over a fixed bitstring of a local ran- dom quantum circuit, constructed from nearest-neighbor Haar random gates. Then, for any \(m \ge 0\), the distribution corresponding to circuits of depth \(O(n^{2m+1} log(n))\) is at most \(O(1/n^m)\) far in total variation distance from the Porter-Thomas distribution. Our proof uses moment bounds from approximate designs, analytic estimates for characteristic functions, and a local anticoncentration property for inverse moments.
+Porter-Thomas statistics are a characteristic feature of the output distribution of random quantum states and, more broadly, chaotic quantum many-body systems. Convergence to Porter-Thomas plays a central role in random circuit sampling and experimental demonstrations of quantum advantage, where the output statistics of low-depth random quantum circuits are expected to be approximately Porter-Thomas, despite the absence of a rigorous proof of con- vergence. We show that the output distribution of polynomial-depth brickwork random circuits converges inverse-polynomially in total variation distance to the Porter-Thomas distribution. Specifically, consider the output probability distribution over a fixed bitstring of a local ran- dom quantum circuit, constructed from nearest-neighbor Haar random gates. Then, for any \(m \ge 0\), the distribution corresponding to circuits of depth \(O(n^{2m+1} \log(n))\) is at most \(O(1/n^m)\) far in total variation distance from the Porter-Thomas distribution. Our proof uses moment bounds from approximate designs, analytic estimates for characteristic functions, and a local anticoncentration property for inverse moments.
 </details>
 </li>
 
@@ -35,18 +47,6 @@ Preprint (2026) <br>
 <details>
 <summary>Abstract</summary>
 We study the problem of tomography for \(k\)-sparse quantum states. In contrast to classical distribution learning, where tight sample and time complexity bounds in terms of support size are well understood, no non-trivial bounds were previously shown for this problem. We give the first near optimal algorithm for learning \(n\)-qubit \(k\)-sparse pure quantum states, obtaining fidelity at least \(1−\varepsilon\) with high probability using \(\tilde{O}(k/\varepsilon)\) copies of the state and \(\tilde{O}(kn/\varepsilon)\) time. Both bounds are optimal up to polylogarithmic factors. As an implication, we also obtain an algorithm with near optimal \(\tilde{O}(kr/\varepsilon)\) sample complexity for learning \(k\)-sparse rank-\(r\) mixed states, via the random purification channel technique. Obtaining time complexity nearly matching the sample complexity, for \(r>1\), remains an important open question.
-</details>
-</li>
-
-<li>
-<strong>Nearly Time-Optimal Pure State Tomography with Pauli Measurements</strong><br>
-Sabee Grewal, Meghal Gupta, William He, Aniruddha Sen, Mihir Singhal<br>
-FOCS 2026<br>
-<a href="https://arxiv.org/abs/2601.04444">(arXiv)</a>
-
-<details>
-<summary>Abstract</summary>
-We give an algorithm for pure state tomography with near-optimal copy and time complexity using only single-qubit measurements. Specifically, given $\widetilde{O}(2^n / \epsilon)$ copies of an unknown $n$-qubit pure state $\ket{\psi}$, the algorithm performs only nonadaptive Pauli measurements, runs in time $\widetilde{O}(2^n / \epsilon)$, and outputs $\ket{\hat{\psi}}$ with fidelity at least $1 - \epsilon$ with $\ket{\psi}$ with high probability. This is the first algorithm for pure state tomography that achieves near-optimal running time.
 </details>
 </li>
 
