@@ -49,7 +49,7 @@ FOCS 2026<br>
 
 <details>
 <summary>Abstract</summary>
-We give an algorithm for pure state tomography with near-optimal copy and time complexity using only single-qubit measurements. Specifically, given $\widetilde{O}(2^n / \epsilon)$ copies of an unknown $n$-qubit pure state $\ket{\psi}$, the algorithm performs only nonadaptive Pauli measurements, runs in time $\widetilde{O}(2^n / \epsilon)$, and outputs $\ket{\hat{\psi}}$ with fidelity at least $1 - \epsilon$ with $\ket{\psi}$ with high probability. This is the first algorithm for pure state tomography that achieves near-optimal running time.
+We give an algorithm for pure state tomography with near-optimal copy and time complexity using only single-qubit measurements. Specifically, given \(\widetilde{O}\left(\frac{2^n}{\epsilon}\right)\) copies of an unknown \(n\)-qubit pure state \(\lvert \psi \rangle\), the algorithm performs only nonadaptive Pauli measurements, runs in time \(\widetilde{O}\left(\frac{2^n}{\epsilon}\right)\), and outputs \(\lvert \hat{\psi} \rangle\) with fidelity at least \(1 - \epsilon\) with \(\lvert \psi \rangle\) with high probability. This is the first algorithm for pure state tomography that achieves near-optimal running time.
 </details>
 </li>
 
