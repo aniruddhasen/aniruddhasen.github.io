@@ -13,13 +13,13 @@ Preprint (2026) <br>
 
 <details>
 <summary>Abstract</summary>
-Porter-Thomas statistics are a characteristic feature of the output distribution of random quantum states and, more broadly, chaotic quantum many-body systems. Convergence to Porter-Thomas plays a central role in random circuit sampling and experimental demonstrations of quantum advantage, where the output statistics of low-depth random quantum circuits are expected to be approximately Porter-Thomas, despite the absence of a rigorous proof of con- vergence. We show that the output distribution of polynomial-depth brickwork random circuits converges inverse-polynomially in total variation distance to the Porter-Thomas distribution. Specifically, consider the output probability distribution over a fixed bitstring of a local ran- dom quantum circuit, constructed from nearest-neighbor Haar random gates. Then, for any \(m \ge 0\), the distribution corresponding to circuits of depth \(O(n^{2m+1} log(n))\) is at most \(O(1/n^m)\) far in total variation distance from the Porter-Thomas distribution. Our proof uses moment bounds from approximate designs, analytic estimates for characteristic functions, and a local anticoncentration property for inverse moments.
+Porter-Thomas statistics are a characteristic feature of the output distribution of random quantum states and, more broadly, chaotic quantum many-body systems. Convergence to Porter-Thomas plays a central role in random circuit sampling and experimental demonstrations of quantum advantage, where the output statistics of low-depth random quantum circuits are expected to be approximately Porter-Thomas, despite the absence of a rigorous proof of con- vergence. We show that the output distribution of polynomial-depth brickwork random circuits converges inverse-polynomially in total variation distance to the Porter-Thomas distribution. Specifically, consider the output probability distribution over a fixed bitstring of a local ran- dom quantum circuit, constructed from nearest-neighbor Haar random gates. Then, for any \(m \ge 0\), the distribution corresponding to circuits of depth \(O(n^{2m+1} \log(n))\) is at most \(O(1/n^m)\) far in total variation distance from the Porter-Thomas distribution. Our proof uses moment bounds from approximate designs, analytic estimates for characteristic functions, and a local anticoncentration property for inverse moments.
 </details>
 </li>
 
 <li>
-<strong>Device-Independent Conference Keys from Parity-Extended Games</strong>*<br>
-Suvradip Chakraborty, Ronak Ramachandran, Aniruddha Sen <br>
+<strong>Device-Independent Conference Keys from Parity-Extended Games</strong><br>
+Suvradip Chakraborty, Ronak Ramachandran, Aniruddha Sen* <br>
 Preprint (2026) <br>
 <a href="https://arxiv.org/abs/2610.01025">(arXiv)</a>
 
@@ -42,8 +42,8 @@ We study the problem of tomography for \(k\)-sparse quantum states. In contrast 
 </li>
 
 <li>
-<strong>Nearly Time-Optimal Pure State Tomography with Pauli Measurements</strong>*<br>
-Sabee Grewal, Meghal Gupta, William He, Aniruddha Sen, Mihir Singhal<br>
+<strong>Nearly Time-Optimal Pure State Tomography with Pauli Measurements</strong><br>
+Sabee Grewal, Meghal Gupta, William He, Aniruddha Sen*, Mihir Singhal<br>
 FOCS 2026<br>
 <a href="https://arxiv.org/abs/2601.04444">(arXiv)</a>
 
