@@ -12,7 +12,9 @@ I am a third-year PhD student in the Computer Science department at the [Univers
 I previously graduated from the [University of Massachusetts Amherst](https://www.cics.umass.edu) with a B.S. degree double majoring in computer science and mathematics. During my undergraduate, I worked under [Don Towsley](https://www.cics.umass.edu/about/directory/donald-towsley) as part of the [ACQuIRe Lab](https://acquire.cs.umass.edu) at UMass. I recently spent a summer interning at [Visa Research](https://usa.visa.com/about-visa/visa-research.html) in their quantum computing team, and prior to that I was a research fellow at Los Alamos National Laboratory, as part of their [Quantum Computing Summer School Fellowship](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool).
 
 ## Selected Papers
-<ol class="publications">
+<p style="color: #888; font-weight: 300; font-size: 0.95em;">
+  See <a href="https://aniruddhasen.github.io/publications/" style="color: #06c; text-decoration: underline;">Research</a> for a full list. Authors are listed in alphabetical order for the first paper here.
+</p>
   
 <li>
 <strong>Nearly Time-Optimal Pure State Tomography with Pauli Measurements</strong><br>
